@@ -1,5 +1,8 @@
 _repo: Estudio-descriptivo-de-los-monumentos-arabes-de-Granada-Sevilla-y-Cordoba-o-sea-La-Alhambra-e__55440
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55440-h/images/cover.jpg
 creator:
   author:
     agent_name: Contreras, Rafael
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '48335'
     url: http://www.gutenberg.org/2009/agents/48335
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55440#Estudio-descriptivo-de-los-monumentos-arabes-de-Granada-Sevilla-y-Cordoba-o-sea-La-Alhambra-e_
 gutenberg_issued: '2017-08-27'
 gutenberg_type: Text
 identifiers:
